@@ -64,19 +64,6 @@ The dataset contains:
 - Improve inventory management using sales trends.
 - Use data-driven strategies to improve business performance.
 
-## Project Structure
-
-Project4/
-│
-├── train.csv
-├── project4.py
-├── dashboard_charts/
-│ ├── sales_by_region.png
-│ ├── sales_by_category.png
-│ ├── monthly_sales_trend.png
-│ └── top_products.png
-└── superstore sales analysis dashboard.pptx
-
 ## Conclusion
 
 This project demonstrates how data analytics and visualization can transform raw sales data into actionable business insights. The findings can support better decision-making, improve operational efficiency, and drive business growth.
